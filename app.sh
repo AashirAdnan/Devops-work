@@ -1,1 +1,1 @@
-this is a script
+echo "app is running"
