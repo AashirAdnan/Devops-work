@@ -1,1 +1,1 @@
-echo "app is running"
+echo "running yay!!!" 
