@@ -1,1 +1,1 @@
-this is a script
+echo "running yay!!!" 
